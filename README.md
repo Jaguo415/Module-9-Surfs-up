@@ -6,6 +6,8 @@ W. Avy likes your analysis, but he wants more information about temperature tren
 
 * Determine Statistical overview of June
 * Determine Statistical overview of Dec
+* Determine if the Ice Cream shop can stay open year round.
+
 
 ## Results
 
